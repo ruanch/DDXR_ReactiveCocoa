@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/Controller(&#x63a7;&#x5236;&#x5668;)/DDLoginRXViewController.m"
+            timestampString = "524130131.006569"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "-bindViewModelToChangeView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/ViewModel(VM&#x6a21;&#x578b;)/DDLoginRXViewModel.m"
+            timestampString = "524127253.488954"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-init"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/Controller(&#x63a7;&#x5236;&#x5668;)/DDLoginRXViewController.m"
+            timestampString = "524130375.25641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-bindViewModelToChangeView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/Controller(&#x63a7;&#x5236;&#x5668;)/DDLoginRXViewController.m"
+            timestampString = "524130378.067234"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-bindViewModelToChangeView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/ViewModel(VM&#x6a21;&#x578b;)/DDLoginRXViewModel.m"
+            timestampString = "524130458.790781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-init"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/Controller(&#x63a7;&#x5236;&#x5668;)/DDLoginRXViewController.m"
+            timestampString = "524130485.656898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-bindViewModelToChangeView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/ViewModel(VM&#x6a21;&#x578b;)/DDLoginRXViewModel.m"
+            timestampString = "524130510.016814"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-init"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DDXR/Sections(&#x5177;&#x4f53;&#x5355;&#x5143;&#xff09;/LOGIN(&#x767b;&#x5f55;RX)/ViewModel(VM&#x6a21;&#x578b;)/DDLoginRXViewModel.m"
+            timestampString = "524130516.426776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-init"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

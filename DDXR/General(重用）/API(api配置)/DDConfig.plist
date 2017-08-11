@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Time Out Interval</key>
+	<integer>10</integer>
+	<key>Base Server Schema</key>
+	<string>https://</string>
+	<key>Base Server Address Development</key>
+	<string>apis.juhe.cn</string>
+	<key>Base Server Address Production</key>
+	<string>www.linkedj.com</string>
+	<key>Base Server Address QA</key>
+	<string>124.160.91.83/v1_1_0/</string>
+	<key>UAT Environment On Release</key>
+	<false/>
+</dict>
+</plist>
